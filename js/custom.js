@@ -1,4 +1,4 @@
-// JavaScript Document
+ // JavaScript Document
 
 $(window).load(function () {
     "use strict";
@@ -60,6 +60,7 @@ $(document).ready(function () {
             $(".navbar-fixed-top").removeClass("bg-nav");
         }
     });
+
 
 
 

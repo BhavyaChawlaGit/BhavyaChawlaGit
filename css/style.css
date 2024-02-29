@@ -42,6 +42,8 @@ h1 {
     line-height: 70px;
 }
 
+
+
 h4 {
     font-family: 'Lato', sans-serif;
     text-transform: capitalize;
@@ -81,6 +83,8 @@ body {
 .h-50 {
     height: 50px;
 }
+
+
 
 
 /* preloader
@@ -249,13 +253,15 @@ nav li {
 nav li a {
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: #444;
+    /* color: #444; */
+    color: #fff;
     font-size: 11px;
     font-weight: bold;
 }
 
 .bg-nav {
     background: #fff;
+    /* color: #444; */
     border-bottom: 1px solid #f3f3f3
 }
 
@@ -277,6 +283,11 @@ a.active {
     color: #425BB5;
 }
 
+/* Add a transition for the color property */
+.navbar-fixed-top {
+    transition: color 0.3s ease;
+} 
+
 
 /* home section
 ==================================================*/
@@ -285,11 +296,13 @@ a.active {
     background: url(../img/home-bg-2.jpg);
     background-size: cover;
     height: 100vh;
+    color: #fff;
 }
 
 .table-cell {
     display: table-cell;
     vertical-align: middle;
+    color: #fff;
 }
 
 .disply-table {
