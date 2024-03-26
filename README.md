@@ -9,7 +9,6 @@
 - Project Management Automation: Utilizing advanced technologies like GPT-3 and PostgreSQL, I've automated aspects of project management, focusing on cost estimation and planning. My projects demonstrate a blend of innovative AI application and solid data management skills.
 - Software Development: Beyond data analysis, I'm experienced with CI/CD practices, React, JavaScript, and Docker, underscoring my versatility in tackling challenges across the software development lifecycle.
 
----
 
 ## 🎯 Projects and Highlights:
 
