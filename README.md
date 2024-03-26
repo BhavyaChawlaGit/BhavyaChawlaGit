@@ -12,10 +12,10 @@
 
 ## 🎯 Projects and Highlights:
 
-- Generative AI for Cost Estimation: An innovative application of GPT-3 integrated with PostgreSQL to automate project management tasks, showcasing my proficiency in generative AI and data integration.
-- Encoder Decoder LSTM on Household Electricity Consumption: Utilizing advanced models such as Encoder-Decoder LSTM, CNN-LSTM, and Conv-LSTM, I improved electricity consumption forecasting over a dataset spanning four years, reducing RMSD by 35%, indicative of precise forecasting and potential cost savings.
-- StackOverflow-GitHub Microservices: Developed a system using Go, Docker, and PostgreSQL to collect and store data from Stack Overflow and GitHub, focusing on key frameworks. This project involved using Prometheus for monitoring and provided insights for data-driven decision-making, highlighting my skills in microservices architecture and API integration.
-- Educational Contributions: As a Graduate Teaching Assistant, I guide students through complex technologies like UML, CI/CD, and React, demonstrating my commitment to sharing knowledge and fostering learning.
+- **Generative AI for Cost Estimation:** An innovative application of GPT-3 integrated with PostgreSQL to automate project management tasks, showcasing my proficiency in generative AI and data integration.  
+- **Encoder Decoder LSTM on Household Electricity Consumption:** Utilizing advanced models such as Encoder-Decoder LSTM, CNN-LSTM, and Conv-LSTM, I improved electricity consumption forecasting over a dataset spanning four years, reducing RMSD by 35%, indicative of precise forecasting and potential cost savings.  
+- **StackOverflow-GitHub Microservices:** Developed a system using Go, Docker, and PostgreSQL to collect and store data from Stack Overflow and GitHub, focusing on key frameworks. This project involved using Prometheus for monitoring and provided insights for data-driven decision-making, highlighting my skills in microservices architecture and API integration.  
+- **Educational Contributions:** As a Graduate Teaching Assistant, I guide students through complex technologies like UML, CI/CD, and React, demonstrating my commitment to sharing knowledge and fostering learning.
 
 ---
 
