@@ -5,9 +5,9 @@
 
 ## 🔍 What I Do:
 
-- Data Analysis & Machine Learning: With a foundation in Python, SQL, and various machine learning frameworks (TensorFlow, PyTorch, Keras), I develop models that turn data into insights. My work on forecasting and classification tasks showcases my ability to apply theoretical knowledge in practical settings.
-- Project Management Automation: Utilizing advanced technologies like GPT-3 and PostgreSQL, I've automated aspects of project management, focusing on cost estimation and planning. My projects demonstrate a blend of innovative AI application and solid data management skills.
-- Software Development: Beyond data analysis, I'm experienced with CI/CD practices, React, JavaScript, and Docker, underscoring my versatility in tackling challenges across the software development lifecycle.
+- **Data Analysis & Machine Learning:** With a foundation in Python, SQL, and various machine learning frameworks (TensorFlow, PyTorch, Keras), I develop models that turn data into insights. My work on forecasting and classification tasks showcases my ability to apply theoretical knowledge in practical settings.
+- **Project Management Automation:** Utilizing advanced technologies like GPT-3 and PostgreSQL, I've automated aspects of project management, focusing on cost estimation and planning. My projects demonstrate a blend of innovative AI application and solid data management skills.
+- **Software Development:** Beyond data analysis, I'm experienced with CI/CD practices, React, JavaScript, and Docker, underscoring my versatility in tackling challenges across the software development lifecycle.
 
 
 ## 🎯 Projects and Highlights:
