@@ -1,5 +1,5 @@
 # 👋 Hi,  
-### [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavyachawla/) [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chavilism/) [![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/chavilism)
+
 ### I'm Bhavya Chawla, a Master's candidate in Computer Science at the Illinois Institute of Technology, specializing in Data analysis, machine learning, and Python programming. Passionate about leveraging data to solve complex problems, I'm on the lookout for roles where I can contribute to meaningful data analysis and machine learning projects.
 
 
@@ -23,5 +23,6 @@
 
 ### 💞️ Looking to collaborate on: Projects focused on data analytics, machine learning applications, and any innovative use of technology that addresses real-world problems.
 
-### 📫 How to reach me: Feel free to connect with me on LinkedIn at linkedin.com/in/bhavyachawla or check out my projects here on GitHub.
+### 📫 How to reach me: Feel free to connect with me on LinkedIn or check out my projects here on GitHub.
+### [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavyachawla/) [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chavilism/) [![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/chavilism)
 
