@@ -1,6 +1,6 @@
 # 👋 Hi,  
 
-### I'm Bhavya Chawla, a recent graduate with a Master's in Computer Science from the Illinois Institute of Technology, specializing in Python programming, data analysis, and machine learning. Passionate about leveraging data to solve complex problems, I'm actively seeking roles where I can contribute to data science and machine learning projects.
+### I'm Bhavya Chawla, and I specialize in Python programming, data analysis, and machine learning. Passionate about leveraging data to solve complex problems, I'm actively seeking roles where I can contribute to data science and machine learning projects.
 
 
 ## 🔍 What I Do:
